@@ -1,0 +1,1055 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TVR 1">
+    <display-name lang="ro">TVR 1</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="PRO TV">
+    <display-name lang="ro">PRO TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="HBO 3">
+    <display-name lang="ro">HBO 3</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Antena 1">
+    <display-name lang="ro">Antena 1</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TVR 2">
+    <display-name lang="ro">TVR 2</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Prima TV">
+    <display-name lang="ro">Prima TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Kanal D">
+    <display-name lang="ro">Kanal D</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Acasă TV">
+    <display-name lang="ro">Acasă TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Naţional TV">
+    <display-name lang="ro">Naţional TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TVR 3">
+    <display-name lang="ro">TVR 3</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="PRO TV Internaţional">
+    <display-name lang="ro">PRO TV Internaţional</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TVR Internaţional">
+    <display-name lang="ro">TVR Internaţional</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Antena Stars">
+    <display-name lang="ro">Antena Stars</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Speranţa TV">
+    <display-name lang="ro">Speranţa TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Alfa Omega TV">
+    <display-name lang="ro">Alfa Omega TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Trinitas TV">
+    <display-name lang="ro">Trinitas TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Naţional 24 Plus">
+    <display-name lang="ro">Naţional 24 Plus</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Credo TV">
+    <display-name lang="ro">Credo TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Neptun TV">
+    <display-name lang="ro">Neptun TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="LOOK TV">
+    <display-name lang="ro">LOOK TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Acasă GOLD">
+    <display-name lang="ro">Acasă GOLD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Naşul TV">
+    <display-name lang="ro">Naşul TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Agro TV">
+    <display-name lang="ro">Agro TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="LOOK PLUS">
+    <display-name lang="ro">LOOK PLUS</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TVH">
+    <display-name lang="ro">TVH</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Orange Info">
+    <display-name lang="ro">Orange Info</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Realitatea TV">
+    <display-name lang="ro">Realitatea TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="ro">Antena 3</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="B1">
+    <display-name lang="ro">B1</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="ro">BBC World News</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="ro">CNN</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="EuroNews">
+    <display-name lang="ro">EuroNews</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi 24">
+    <display-name lang="ro">Digi 24</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Bloomberg TV">
+    <display-name lang="ro">Bloomberg TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Russia Today">
+    <display-name lang="ro">Russia Today</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="CCTV News">
+    <display-name lang="ro">CCTV News</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="România TV">
+    <display-name lang="ro">România TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="ro">Fashion TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Happy Channel">
+    <display-name lang="ro">Happy Channel</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="ro">Travel Channel</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Fine Living">
+    <display-name lang="ro">Fine Living</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="GINX eSports TV">
+    <display-name lang="ro">GINX eSports TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TV Paprika">
+    <display-name lang="ro">TV Paprika</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="E!Entertainment">
+    <display-name lang="ro">E!Entertainment</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Top Shop TV">
+    <display-name lang="ro">Top Shop TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="DoQ România">
+    <display-name lang="ro">DoQ România</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="ro">TLC</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Travel Mix">
+    <display-name lang="ro">Travel Mix</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi Life">
+    <display-name lang="ro">Digi Life</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="High TV 3D">
+    <display-name lang="ro">High TV 3D</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Fashion ONE">
+    <display-name lang="ro">Fashion ONE</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="IDA TV">
+    <display-name lang="ro">IDA TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="DIVA">
+    <display-name lang="ro">DIVA</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="ro">HBO</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="ro">HBO 2</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="ro">AXN</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="AXN Black">
+    <display-name lang="ro">AXN Black</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="AXN White">
+    <display-name lang="ro">AXN White</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="AXN Spin">
+    <display-name lang="ro">AXN Spin</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Pro Cinema">
+    <display-name lang="ro">Pro Cinema</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="ro">Cinemax</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Cinemax 2">
+    <display-name lang="ro">Cinemax 2</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="ro">TNT</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TV 1000">
+    <display-name lang="ro">TV 1000</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="ro">AMC</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi Film">
+    <display-name lang="ro">Digi Film</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="FilmBox">
+    <display-name lang="ro">FilmBox</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="FilmBox Plus">
+    <display-name lang="ro">FilmBox Plus</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="FilmBox Family">
+    <display-name lang="ro">FilmBox Family</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Bollywood Film">
+    <display-name lang="ro">Bollywood Film</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Bollywood Clasic">
+    <display-name lang="ro">Bollywood Clasic</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Bollywood TV">
+    <display-name lang="ro">Bollywood TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Filmcafe">
+    <display-name lang="ro">Filmcafe</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Comedy Central Extra">
+    <display-name lang="ro">Comedy Central Extra</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="ShortsTV">
+    <display-name lang="ro">ShortsTV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Sundance">
+    <display-name lang="ro">Sundance</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="ro">Paramount Channel</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="FilmBox Premium">
+    <display-name lang="ro">FilmBox Premium</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="ro">Disney Channel</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Minimax">
+    <display-name lang="ro">Minimax</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="ro">Cartoon Network</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="ro">Boomerang</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="ro">Nickelodeon</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="ro">Nick Jr.</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="ro">Baby TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Duck TV">
+    <display-name lang="ro">Duck TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="JimJam">
+    <display-name lang="ro">JimJam</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="ro">Disney Junior</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Megamax">
+    <display-name lang="ro">Megamax</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi 24 Timişoara">
+    <display-name lang="ro">Digi 24 Timişoara</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Valea Prahovei TV">
+    <display-name lang="ro">Valea Prahovei TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Erdély TV">
+    <display-name lang="ro">Erdély TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TVR Cluj">
+    <display-name lang="ro">TVR Cluj</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TVR Iaşi">
+    <display-name lang="ro">TVR Iaşi</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TVR Craiova">
+    <display-name lang="ro">TVR Craiova</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TVR Timişoara">
+    <display-name lang="ro">TVR Timişoara</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TVR Târgu-Mureş">
+    <display-name lang="ro">TVR Târgu-Mureş</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Antena 1 Ploieşti">
+    <display-name lang="ro">Antena 1 Ploieşti</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="WYL TV">
+    <display-name lang="ro">WYL TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Kapital TV">
+    <display-name lang="ro">Kapital TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Prahova TV">
+    <display-name lang="ro">Prahova TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Columna TV">
+    <display-name lang="ro">Columna TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TV Sud Est">
+    <display-name lang="ro">TV Sud Est</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TV City">
+    <display-name lang="ro">TV City</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi 24 Oradea">
+    <display-name lang="ro">Digi 24 Oradea</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi 24 Craiova">
+    <display-name lang="ro">Digi 24 Craiova</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi 24 Constanţa">
+    <display-name lang="ro">Digi 24 Constanţa</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi 24 Iaşi">
+    <display-name lang="ro">Digi 24 Iaşi</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="MDI TV">
+    <display-name lang="ro">MDI TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="PLOIEŞTI TV">
+    <display-name lang="ro">PLOIEŞTI TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Top All TV">
+    <display-name lang="ro">Top All TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="RTV Galaţi">
+    <display-name lang="ro">RTV Galaţi</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Media TV">
+    <display-name lang="ro">Media TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="MTV România">
+    <display-name lang="ro">MTV România</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="MTV Dance">
+    <display-name lang="ro">MTV Dance</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="ro">MTV Hits</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="MTV Rocks">
+    <display-name lang="ro">MTV Rocks</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Kiss TV">
+    <display-name lang="ro">Kiss TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="ro">VH1</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="VH1 Classic">
+    <display-name lang="ro">VH1 Classic</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Mezzo TV">
+    <display-name lang="ro">Mezzo TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Classical Music">
+    <display-name lang="ro">Classical Music</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Favorit TV">
+    <display-name lang="ro">Favorit TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TRACE Urban">
+    <display-name lang="ro">TRACE Urban</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="U TV">
+    <display-name lang="ro">U TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Etno TV">
+    <display-name lang="ro">Etno TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Music Channel">
+    <display-name lang="ro">Music Channel</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Balkanika Music Television">
+    <display-name lang="ro">Balkanika Music Television</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Mooz Ro">
+    <display-name lang="ro">Mooz Ro</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Mooz Hits">
+    <display-name lang="ro">Mooz Hits</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Mooz Dance">
+    <display-name lang="ro">Mooz Dance</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="H!T Music Channel">
+    <display-name lang="ro">H!T Music Channel</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Inedit TV">
+    <display-name lang="ro">Inedit TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Hora TV">
+    <display-name lang="ro">Hora TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="iConcerts">
+    <display-name lang="ro">iConcerts</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="ZU TV">
+    <display-name lang="ro">ZU TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="DJAZZ TV">
+    <display-name lang="ro">DJAZZ TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="ro">Eurosport 1</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="ro">Eurosport 2</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Sport.ro">
+    <display-name lang="ro">Sport.ro</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Dolce Sport 1">
+    <display-name lang="ro">Dolce Sport 1</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Dolce Sport 2">
+    <display-name lang="ro">Dolce Sport 2</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Extreme Sports Channel">
+    <display-name lang="ro">Extreme Sports Channel</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Nautical Channel">
+    <display-name lang="ro">Nautical Channel</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Motors TV">
+    <display-name lang="ro">Motors TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi Sport 1">
+    <display-name lang="ro">Digi Sport 1</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi Sport 2">
+    <display-name lang="ro">Digi Sport 2</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi Sport 3">
+    <display-name lang="ro">Digi Sport 3</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Fishing  Hunting Channel">
+    <display-name lang="ro">Fishing Hunting Channel</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Dolce Sport 3">
+    <display-name lang="ro">Dolce Sport 3</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Dolce Sport 4">
+    <display-name lang="ro">Dolce Sport 4</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Dolce Sport 5">
+    <display-name lang="ro">Dolce Sport 5</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Dolce Sport 6">
+    <display-name lang="ro">Dolce Sport 6</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="AMS">
+    <display-name lang="ro">AMS</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Trace Sport Stars">
+    <display-name lang="ro">Trace Sport Stars</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi 24 HD">
+    <display-name lang="ro">Digi 24 HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TVR HD">
+    <display-name lang="ro">TVR HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Discovery HD Showcase">
+    <display-name lang="ro">Discovery HD Showcase</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Fashion TV HD">
+    <display-name lang="ro">Fashion TV HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="ro">History HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="U TV HD">
+    <display-name lang="ro">U TV HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="ro">National Geographic HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="National Geographic Wild HD">
+    <display-name lang="ro">National Geographic Wild HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="ro">AXN HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="FilmBox Extra HD">
+    <display-name lang="ro">FilmBox Extra HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="ro">Animal Planet HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Mooz HD">
+    <display-name lang="ro">Mooz HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Mooz Dance HD">
+    <display-name lang="ro">Mooz Dance HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi Sport 1 HD">
+    <display-name lang="ro">Digi Sport 1 HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="ro">HBO HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="ro">HBO 2 HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="HBO 3 HD">
+    <display-name lang="ro">HBO 3 HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Acasă TV HD">
+    <display-name lang="ro">Acasă TV HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="PRO TV HD">
+    <display-name lang="ro">PRO TV HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Dolce Sport HD">
+    <display-name lang="ro">Dolce Sport HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi World HD">
+    <display-name lang="ro">Digi World HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Sport.ro HD">
+    <display-name lang="ro">Sport.ro HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi Film HD">
+    <display-name lang="ro">Digi Film HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Eurosport 1 HD">
+    <display-name lang="ro">Eurosport 1 HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="ro">Eurosport 2 HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi Sport 2 HD">
+    <display-name lang="ro">Digi Sport 2 HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi Life HD">
+    <display-name lang="ro">Digi Life HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="ro">MTV Live HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Fishing  Hunting Channel HD">
+    <display-name lang="ro">Fishing  Hunting Channel HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Viasat Nature HD">
+    <display-name lang="ro">Viasat Nature HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="E!Entertainment HD">
+    <display-name lang="ro">E!Entertainment HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Sundance HD">
+    <display-name lang="ro">Sundance HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi Animal World HD">
+    <display-name lang="ro">Digi Animal World HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Viasat History HD">
+    <display-name lang="ro">Viasat History HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Travel Channel HD">
+    <display-name lang="ro">Travel Channel HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Bollywood HD">
+    <display-name lang="ro">Bollywood HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="ShortsTV HD">
+    <display-name lang="ro">ShortsTV HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Mezzo Live HD">
+    <display-name lang="ro">Mezzo Live HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Taraf TV HD">
+    <display-name lang="ro">Taraf TV HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Etno TV HD">
+    <display-name lang="ro">Etno TV HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="LOOK TV HD">
+    <display-name lang="ro">LOOK TV HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="LOOK PLUS HD">
+    <display-name lang="ro">LOOK PLUS HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Discovery Science HD">
+    <display-name lang="ro">Discovery Science HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="ID Xtra HD">
+    <display-name lang="ro">ID Xtra HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Food Network HD">
+    <display-name lang="ro">Food Network HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Kanal D HD">
+    <display-name lang="ro">Kanal D HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="ro">Cinemax HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Cinemax 2 HD">
+    <display-name lang="ro">Cinemax 2 HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Dolce Sport 2 HD">
+    <display-name lang="ro">Dolce Sport 2 HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Brava HD">
+    <display-name lang="ro">Brava HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="myZen TV HD">
+    <display-name lang="ro">myZen TV HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="National Geographic People HD">
+    <display-name lang="ro">National Geographic People HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TRACE Urban HD">
+    <display-name lang="ro">TRACE Urban HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Trace Sport Stars HD">
+    <display-name lang="ro">Trace Sport Stars HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Viasat Explore">
+    <display-name lang="ro">Viasat Explore</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Viasat History">
+    <display-name lang="ro">Viasat History</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="ro">Discovery Channel</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="ro">Animal Planet</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="ro">National Geographic</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="ro">Discovery Science</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="CBS Reality">
+    <display-name lang="ro">CBS Reality</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="National Geographic Wild">
+    <display-name lang="ro">National Geographic Wild</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Discovery World">
+    <display-name lang="ro">Discovery World</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="ro">History</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Da Vinci Learning">
+    <display-name lang="ro">Da Vinci Learning</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Investigation Discovery">
+    <display-name lang="ro">Investigation Discovery</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Viasat Nature">
+    <display-name lang="ro">Viasat Nature</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi World">
+    <display-name lang="ro">Digi World</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="BBC Earth">
+    <display-name lang="ro">BBC Earth</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Digi Animal World">
+    <display-name lang="ro">Digi Animal World</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="ID Xtra">
+    <display-name lang="ro">ID Xtra</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Crime  Investigation">
+    <display-name lang="ro">Crime  Investigation</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Discovery Turbo Xtra">
+    <display-name lang="ro">Discovery Turbo Xtra</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="National Geographic People">
+    <display-name lang="ro">National Geographic People</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TV5MONDE">
+    <display-name lang="ro">TV5MONDE</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Rai 1">
+    <display-name lang="ro">Rai 1</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="ro">TVE</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="RTL">
+    <display-name lang="ro">RTL</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="PRO 7">
+    <display-name lang="ro">PRO 7</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="ro">CNBC</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Deutsche Welle">
+    <display-name lang="ro">Deutsche Welle</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Sat 1">
+    <display-name lang="ro">Sat 1</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="France 24">
+    <display-name lang="ro">France 24</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="France 24_EN">
+    <display-name lang="ro">France 24_EN</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="KBS World">
+    <display-name lang="ro">KBS World</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="France 5">
+    <display-name lang="ro">France 5</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="DoQ HU">
+    <display-name lang="ro">DoQ HU</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Mediaset Italia">
+    <display-name lang="ro">Mediaset Italia</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="RTL II">
+    <display-name lang="ro">RTL II</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Rai 3">
+    <display-name lang="ro">Rai 3</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="France 2">
+    <display-name lang="ro">France 2</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Super RTL">
+    <display-name lang="ro">Super RTL</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="France 3">
+    <display-name lang="ro">France 3</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Brazzers TV">
+    <display-name lang="ro">Brazzers TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Private TV">
+    <display-name lang="ro">Private TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="X-Dream TV">
+    <display-name lang="ro">X-Dream TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Hustler TV">
+    <display-name lang="ro">Hustler TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Blue HUSTLER">
+    <display-name lang="ro">Blue HUSTLER</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Playboy TV">
+    <display-name lang="ro">Playboy TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="XXL">
+    <display-name lang="ro">XXL</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="SuperOne">
+    <display-name lang="ro">SuperOne</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Penthouse HD">
+    <display-name lang="ro">Penthouse HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Penthouse 3D">
+    <display-name lang="ro">Penthouse 3D</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Dorcel TV">
+    <display-name lang="ro">Dorcel TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Hustler TV HD">
+    <display-name lang="ro">Hustler TV HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Pinko TV">
+    <display-name lang="ro">Pinko TV</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="Redlight HD">
+    <display-name lang="ro">Redlight HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="SuperOne HD">
+    <display-name lang="ro">SuperOne HD</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+</tv>

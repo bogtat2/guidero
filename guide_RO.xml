@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CineMAX">
+    <display-name lang="ro">CineMAX</display-name>
+    <url>http://www.cinemagia.ro.E</url>
+  </channel>
+  <channel id="Cinemax 2">
+    <display-name lang="ro">Cinemax 2</display-name>
+    <url>http://www.cinemagia.ro.E</url>
+  </channel>
+  <channel id="Cinemax 2 HD">
+    <display-name lang="ro">Cinemax 2 HD</display-name>
+    <url>http://www.cinemagia.ro.E</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="ro">Cinemax HD</display-name>
+    <url>http://www.cinemagia.ro.E</url>
+  </channel>
+  <channel id="Crime + Investigation">
+    <display-name lang="ro">Crime + Investigation</display-name>
+    <url>http://www.cinemagia.ro.E</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="ro">HBO 2</display-name>
+    <url>http://www.cinemagia.ro.E</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="ro">HBO 2 HD</display-name>
+    <url>http://www.cinemagia.ro.E</url>
+  </channel>
+  <channel id="HBO 3">
+    <display-name lang="ro">HBO 3</display-name>
+    <url>http://www.cinemagia.ro.E</url>
+  </channel>
+  <channel id="HBO 3 HD">
+    <display-name lang="ro">HBO 3 HD</display-name>
+    <url>http://www.cinemagia.ro.E</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="ro">HBO HD</display-name>
+    <url>http://www.cinemagia.ro.E</url>
+  </channel>
+</tv>
