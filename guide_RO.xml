@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO">
+    <display-name lang="ro">HBO</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="ro">HBO 2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="HBO 3">
+    <display-name lang="ro">HBO 3</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Cinemax 2">
+    <display-name lang="ro">Cinemax 2</display-name>
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="ro">Cinemax</display-name>
+    <url>http://www.port.ro</url>
+  </channel>
+</tv>
